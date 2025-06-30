@@ -31,7 +31,7 @@
     "chai": "^4.3.4",
     "express": "^4.17.1",
     "express-log-url": "^1.5.1",
-    "mocha": "^9.1.0"
+    "mocha": "^11.7.1"
   },
   "dependencies": {
     "@momsfriendlydevco/eventer": "^1.5.1",
