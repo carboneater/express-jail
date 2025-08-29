@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hash-bang/express-jail#readme",
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.30.0",
     "chai": "^4.3.4",
     "express": "^4.17.1",
     "express-log-url": "^1.5.1",
